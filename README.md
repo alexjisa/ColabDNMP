@@ -1,4 +1,4 @@
-# ColabMiniprot v1.0
+# ColabDNMP v1.0
 
 > Google Colab pipeline to **design and evaluate de novo binders** against any protein target, integrating **P2Rank**, **RFdiffusion**, **ProteinMPNN** and **AlphaFold2**.
 
